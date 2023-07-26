@@ -1,0 +1,8 @@
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe.config
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.exe
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\bin\Debug\AutoImplementedProperty.pdb
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.AssemblyReference.cache
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.SuggestedBindingRedirects.cache
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.exe
+D:\26July\AutoImplementedProperty\AutoImplementedProperty\obj\Debug\AutoImplementedProperty.pdb
